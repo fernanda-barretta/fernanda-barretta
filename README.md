@@ -1,4 +1,4 @@
-# Olá, eu sou a Fernanda!
+# Fernanda
 
 ## Sobre mim
 Me chamo **Fernanda Santos Barreta**, sou estudante do curso de
